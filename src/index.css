@@ -1,0 +1,181 @@
+.post-header{
+  display: inline-block;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 200px;
+  background-color: white;
+
+}
+
+h1{display:inline;}
+
+li {
+  display: inline;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 56px;
+  text-decoration: none;
+}
+
+a {
+  display: block;
+  padding-left: px;
+  margin-left: 130px;
+  align-items: center;
+}
+
+
+.post-description{
+  margin: auto;
+  width: 62%;
+  padding-top: 60px;
+  gap: 20px;
+}
+
+.post-content-1{
+  align-items: center;
+  font-size: 36px;
+  font-family: sans-serif;
+}
+
+.buton{
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  font-family: sans-serif;
+  font-size: 15px;
+  border: solid;
+  background-color: transparent;
+  border-color:#335F7D;
+  cursor: pointer;
+}
+
+
+.buton:hover{
+  background-color:#335F7D;
+  color: white;
+}
+
+.post-description-2{
+  margin: auto;
+  width: 0%;
+  padding-top: 60px;
+  gap: 20px;
+}
+
+.buton-2{
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  font-family: sans-serif;
+  font-size: 15px;
+  border: solid;
+  background-color: transparent;
+  border-color:#335F7D;
+  cursor: pointer;
+}
+
+.buton-2:hover{
+  background-color:#335F7D;
+  color: white;
+}
+
+
+
+
+.large-image{
+  padding-top: 50px;
+}
+
+.post-last{
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+  padding-left: 350px;
+  gap: 50px;
+}
+
+.post-content-3{
+  font-size: 28px;
+  font-family: sans-serif;
+  line-height: 40px;
+}
+
+.post-last-1{
+  display: flex;
+  gap: 30px;
+  padding-left:455px ;
+
+}
+
+.post-content-4{
+  padding-top: 120px;
+  text-align: right;
+  font-size: 22px;
+  font-family: sans-serif;
+  line-height: 30px;
+  color: #180000;
+}
+
+.post-content-new{
+font-size: 14px;
+font-family: sans-serif;
+line-height: 20px;
+}
+
+
+.hashtag{
+  margin-top: 100px ;
+  background-color: #FFF8F2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.hashtag-p{
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+
+
+.navMenu {
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.navMenu a {
+  color:black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 40px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.navMenu a:hover {
+  color: #335F7D;
+}
+
+
+
+
+
+
